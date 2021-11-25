@@ -1,0 +1,15 @@
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.csproj.AssemblyReference.cache
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.AssemblyInfo.cs
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\MethodExercise.exe
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\MethodExercise.deps.json
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\MethodExercise.runtimeconfig.json
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\MethodExercise.dll
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\ref\MethodExercise.dll
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\bin\Release\net6.0\MethodExercise.pdb
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.dll
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\ref\MethodExercise.dll
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.pdb
+C:\Users\s-i-x\source\repos\MethodExercise\MethodExercise\obj\Release\net6.0\MethodExercise.genruntimeconfig.cache
